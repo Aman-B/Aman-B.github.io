@@ -12,7 +12,7 @@ url: "https://aman-b.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: https://github.com/Aman-B/Aman-B.github.io/tree/master
+baseurl: 
 
 # Google tracking id to track your visitors
 
