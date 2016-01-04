@@ -56,7 +56,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
+  - text: "Make a wish."
   - text: "Where’s your will to be weird?"
 
 me-img: "https://avatars1.githubusercontent.com/u/4972590?v=3&s=460"
