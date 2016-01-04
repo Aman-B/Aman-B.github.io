@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Aman Bakshi"
+title: "Welcome to my page!"
+description: "Website and blog of Aman Bakshi, to keep you updated."
+keywords: "Aman, Bakshi, jekyll, theme"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
 
