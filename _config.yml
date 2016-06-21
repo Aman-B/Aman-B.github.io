@@ -105,6 +105,7 @@ syntax-highlight: True
 
 events:
   - image: "https://lh3.googleusercontent.com/TnagSRWqK1vu-l3ondjAt30zCD9AS_SK_TsVYAHP0P5IWJVFOCxJ7hy4vBVJD1Cot9bQ=w300-rw"
+    url: "goo.gl/z5NduV"
     date: "20 June 2016"
     description: "My first android game: 8-bit Soccer. Link : goo.gl/z5NduV"
   - image: "/img/timeline/highlites.png"
