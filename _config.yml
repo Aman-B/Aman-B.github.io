@@ -104,7 +104,12 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "https://lh3.googleusercontent.com/TnagSRWqK1vu-l3ondjAt30zCD9AS_SK_TsVYAHP0P5IWJVFOCxJ7hy4vBVJD1Cot9bQ=w300-rw"
+    url:https://play.google.com/store/apps/details?id=com.bewtechnologies.eightbitsoccer
+    date: "20 June 2016"
+    description: "My first android game: 8-bit Soccer"
   - image: "/img/timeline/highlites.png"
+    url:https://play.google.com/store/apps/details?id=com.amanb.aman.feedreader
     date: "5 January 2016"
     description: "Created news app: Highlites"
   - image: "/img/timeline/silentplaces.png"
