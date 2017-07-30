@@ -104,29 +104,24 @@ syntax-highlight: True
 ############
 
 events:
-
- - image: "/img/timeline/cmp.png"
-    url: "https://goo.gl/VceQmY"
-    date: "20 June 2017"
-    description: "Compress Video App. Link : https://goo.gl/VceQmY"
-
- - image: "/img/timeline/santa.png"
-    url: "https://goo.gl/u1BCTE"
-    date: "25 Dec 2016"
-    description: "A Christmas Game! Link : https://goo.gl/u1BCTE"
-
-
-  - image: "/img/timeline/soccer.png"
-    url: "goo.gl/z5NduV"
-    date: "20 June 2016"
-    description: "My first android game: 8-bit Soccer. Link : goo.gl/z5NduV"
-    
-  - image: "/img/timeline/highlites.png"
-    date: "5 January 2016"
-    description: "Created news app: Highlites. Link : goo.gl/2qyqeb"
-  - image: "/img/timeline/silentplaces.png"
-    date: "17 September 2015"
-    description: "Created my first app: Silent places. Link : goo.gl/888Cbi"
+-image:"/img/timeline/cmp.png"
+    url:"https://goo.gl/VceQmY"
+    date:"20 June 2017"
+    description:"Compress Video App. Link : https://goo.gl/VceQmY"
+-image:"/img/timeline/santa.png"
+    url:"https://goo.gl/u1BCTE"
+    date:"25 Dec 2016"
+    description:"A Christmas Game! Link : https://goo.gl/u1BCTE"
+-image:"/img/timeline/soccer.png"
+    url:"goo.gl/z5NduV"
+    date:"20 June 2016"
+    description:"My first android game: 8-bit Soccer. Link : goo.gl/z5NduV"
+-image:"/img/timeline/highlites.png"
+    date:"5 January 2016"
+    description:"Created news app: Highlites. Link : goo.gl/2qyqeb"
+-image:"/img/timeline/silentplaces.png"
+    date:"17 September 2015"
+    description:"Created my first app: Silent places. Link : goo.gl/888Cbi"
 
 # First image of the Timeline
 
